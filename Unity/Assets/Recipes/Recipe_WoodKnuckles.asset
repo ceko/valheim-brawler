@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e87bcb4c2bd091543899311f730f4117, type: 3}
+  m_Name: Recipe_WoodKnuckles
+  m_EditorClassIdentifier: 
+  m_item: {fileID: 6622858975722109495, guid: b954bb762747be34c8fab79faf555e1a, type: 3}
+  m_amount: 1
+  m_enabled: 1
+  m_craftingStation: {fileID: 0}
+  m_repairStation: {fileID: 2818485463711387864, guid: 234c412482c20f14c92081ab310f9428,
+    type: 3}
+  m_minStationLevel: 1
+  m_resources:
+  - m_resItem: {fileID: -3930846507609766151, guid: 24e95cdabe7c07c4f9ccfc9829bc41d3,
+      type: 3}
+    m_amount: 4
+    m_amountPerLevel: 4
+    m_recover: 1

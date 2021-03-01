@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 1207041895
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: valheim-brawler
+      Dependencies: {}

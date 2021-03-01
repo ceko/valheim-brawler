@@ -1,0 +1,84 @@
+ManifestFileVersion: 0
+CRC: 1922915811
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f8dd9055fc4482ae1d9cd42be6f5c990
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d0489d4f935c0a363e5d1197dbb644ce
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 825357479, guid: 1c287c93f5e75094297a1f4662483cd9, type: 3}
+- Class: 114
+  Script: {fileID: -585565762, guid: 1c287c93f5e75094297a1f4662483cd9, type: 3}
+- Class: 114
+  Script: {fileID: 1521249158, guid: 1c287c93f5e75094297a1f4662483cd9, type: 3}
+- Class: 114
+  Script: {fileID: 1109157524, guid: 1c287c93f5e75094297a1f4662483cd9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71efbb99a5faf6f4995ee0b12194f421, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fcee80e96cf48084091bfc9ad1ef9fc6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e87bcb4c2bd091543899311f730f4117, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 470d36bccd4a4a743af2a5b817bde705, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ed9abe6ebb9f339499e56cde457ef629, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/PrefabStandins/DeerHideStandin.prefab
+- Assets/PrefabStandins/IronStandin.prefab
+- Assets/PrefabStandins/SilverStandin.prefab
+- Assets/PrefabStandins/BronzeStandin.prefab
+- Assets/PrefabStandins/WorkbenchStandin.prefab
+- Assets/Prefabs/StuddedKnuckles.prefab
+- Assets/PrefabStandins/BoneFragmentsStandin.prefab
+- Assets/Materials/TreeBranch.mat
+- Assets/Recipes/Recipe_WoodKnuckles.asset
+- Assets/Prefabs/WoodKnuckles.prefab
+- Assets/Images/treebranch.png
+- Assets/Prefabs/IronCestus.prefab
+- Assets/PrefabStandins/LinenThreadStandin.prefab
+- Assets/Prefabs/BronzeCestus.prefab
+- Assets/Prefabs/Mod.prefab
+- Assets/PrefabStandins/BlackMetalStandin.prefab
+- Assets/Prefabs/BlackMetalCestus.prefab
+- Assets/Images/MetalMap.fw.png
+- Assets/PrefabStandins/WoodStandin.prefab
+- Assets/PrefabStandins/ForgeStandin.prefab
+- Assets/Prefabs/SilverCestus.prefab
+- Assets/Recipes/Recipe_BoneKnuckles.asset
+- Assets/PrefabStandins/ChainStandin.prefab
+- Assets/PrefabStandins/WolfTrophyStandin.prefab
+- Assets/Images/TreeTexture.fw.png
+Dependencies: []

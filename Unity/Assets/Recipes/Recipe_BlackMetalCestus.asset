@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e87bcb4c2bd091543899311f730f4117, type: 3}
+  m_Name: Recipe_BlackMetalCestus
+  m_EditorClassIdentifier: 
+  m_item: {fileID: 7009941798282291619, guid: 4fdc81f96569150419eda8dc564e0c63, type: 3}
+  m_amount: 1
+  m_enabled: 1
+  m_craftingStation: {fileID: 5577495491509864918, guid: bed9b8bb01b00f44aa10cc0df89ac139,
+    type: 3}
+  m_repairStation: {fileID: 5577495491509864918, guid: bed9b8bb01b00f44aa10cc0df89ac139,
+    type: 3}
+  m_minStationLevel: 4
+  m_resources:
+  - m_resItem: {fileID: 1187730468500327807, guid: a3407e9804902e84db02f75dc22fcab1,
+      type: 3}
+    m_amount: 20
+    m_amountPerLevel: 10
+    m_recover: 0
+  - m_resItem: {fileID: 1030936318360892461, guid: b042fc87fbbacdd49ba4e14f8d761386,
+      type: 3}
+    m_amount: 5
+    m_amountPerLevel: 5
+    m_recover: 0
+  - m_resItem: {fileID: 1061670104363213924, guid: 11aa623fa65f3134482dac22bc87a9c6,
+      type: 3}
+    m_amount: 1
+    m_amountPerLevel: 0
+    m_recover: 0
+  - m_resItem: {fileID: 713381213621105041, guid: 3c08c610b4b4ea8499dd727a7c2bb67a,
+      type: 3}
+    m_amount: 5
+    m_amountPerLevel: 2
+    m_recover: 0
