@@ -417,7 +417,7 @@ MonoBehaviour:
       m_blockPowerPerLevel: 0
       m_deflectionForce: 20
       m_deflectionForcePerLevel: 5
-      m_timedBlockBonus: 2
+      m_timedBlockBonus: 4
       m_animationState: 0
       m_skillType: 11
       m_toolTier: 1

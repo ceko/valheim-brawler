@@ -1,9 +1,9 @@
 {
     "name": "ValheimBrawler",
-    "version_number": "0.0.1",
+    "version_number": "0.0.4",
     "website_url": "https://github.com/ceko/valheim-brawler",
     "description": "Valheim brawler adds six tiers of unarmed weapons to the game from wood to black metal.",
     "dependencies": [
-        "denikson-BepInExPack_Valheim-5.4.701"
+        "denikson-BepInExPack_Valheim-5.4.701" 
     ]
 }

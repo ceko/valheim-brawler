@@ -117,6 +117,24 @@ namespace ValheimBrawler.Patches.Items
                 Plugin.Logger.LogError(exc);
             }
         }
+
+        public static void Postfix(ref ZNetScene __instance) {
+            try {
+                Plugin.Logger.LogInfo("Setting up fx.");
+
+                foreach(GameObject resource in UnityBundle.Database.Items) {
+                    var club = __instance.GetPrefab("Club").GetComponent<ItemDrop>();
+                    var itemDrop = resource.GetComponent<ItemDrop>();
+
+                    itemDrop.m_itemData.m_shared.m_hitEffect = club.m_itemData.m_shared.m_hitEffect;
+                    itemDrop.m_itemData.m_shared.m_blockEffect = club.m_itemData.m_shared.m_blockEffect;
+                    itemDrop.m_itemData.m_shared.m_triggerEffect = club.m_itemData.m_shared.m_triggerEffect;    
+                    itemDrop.m_itemData.m_shared.m_trailStartEffect = club.m_itemData.m_shared.m_trailStartEffect;    
+                }                
+            }catch(Exception exc) {
+                Plugin.Logger.LogError(exc);
+            }
+        }
     }
 
     

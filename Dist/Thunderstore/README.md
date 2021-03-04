@@ -39,9 +39,19 @@ Recipes should appear in game through normal play. If you are installing this mo
 2) If the mod is disabled and the game is loaded all modded items will be lost. This is a limitation of the save/load pipeline included in the game. If this happens you can easily re-enable the mod and use the spawn command to regain your items.
 
 Prefab names:
+
 * WoodKnuckles
 * StuddedKnuckles
 * BronzeCestus
 * IronCestus
 * SilverCestus
 * BlackMetalCestus
+
+--- 
+**Changelog**
+
+**v0.0.4**
+* Fixed sound and visual effects not showing up (thanks br8k)
+* Doubled parry modifier from x2 to x4 (thanks Puppernut)
+ 
+

@@ -46,7 +46,7 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Editor\CreateAssetBundles.cs" />
-     <None Include="Assets\Editor\ValheimBrawlerUnityEditor.asmdef" />
+     <None Include="Assets\Editor\ValheimStandsUnityEditor.asmdef" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
