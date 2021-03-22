@@ -1,4 +1,6 @@
 
+Support for this mod has been discontinued.
+
 ---
 **Valheim Brawler**
 
