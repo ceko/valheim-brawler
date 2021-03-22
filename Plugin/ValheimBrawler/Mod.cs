@@ -37,7 +37,7 @@ namespace ValheimBrawler
         private void OnDestroy()
         {
             Logger.LogInfo("Unapplying patches.");
-            harmony.UnpatchAll();
+            harmony.UnpatchSelf();
         }
     }
 }

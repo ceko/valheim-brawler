@@ -1,5 +1,5 @@
+This mod is no longer being supported until Valheim builds some mod support or takes a stance acknowledging or supporting mods. In the meantime feel free to fork the code and use it or re-upload it.
 
----
 **MOD Description** 
 
 Valheim Brawler is a mod that makes use of the underdeveloped unarmed skill. It adds 6 new tiers of weapons:  
@@ -51,6 +51,7 @@ Prefab names:
 **Changelog**
 
 **v0.0.4**
+
 * Fixed sound and visual effects not showing up (thanks br8k)
 * Doubled parry modifier from x2 to x4 (thanks Puppernut)
  
